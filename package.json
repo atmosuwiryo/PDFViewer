@@ -1,0 +1,19 @@
+{
+  "name": "pdfviewer",
+  "version": "1.0.0",
+  "description": "The purpose of the plugin is to create a cordova plugin wrapper around http://randymcmillan.github.com/PDFViewer with a little bit of code updates taken from https://github.com/sitewaerts/cordova-plugin-document-viewer and https://github.com/vfr/Reader for iOS and https://github.com/cyberkatze/pdfViewer for Android.  Feature parity is missing for the time being.  This was more for getting something up and running first.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noInfoPath/PDFViewer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noInfoPath/PDFViewer/issues"
+  },
+  "homepage": "https://github.com/noInfoPath/PDFViewer#readme"
+}
